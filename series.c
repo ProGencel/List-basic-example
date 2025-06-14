@@ -8,7 +8,7 @@ int main()
     int a;
     int b;
 
-    for(a=1;a<=5;a++)
+    for(a=0;a<5;a++)
     {
         printf("Enter the number of elements you want to determine: ");
         scanf("%d",&i);
